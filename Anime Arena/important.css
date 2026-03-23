@@ -1,0 +1,47 @@
+body{
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: blue;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    display: flex;
+    color: white;
+
+}
+
+
+.card h2{
+    background-color: blue;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 4rem;
+}
+
+
+.container{
+
+border-color: blue;
+max-height: 100vw;
+width: 100%;
+
+
+}
+.card img{
+display: block;
+margin-top: 15px;
+margin-right: auto;
+margin-left: auto;
+height: 500px;
+
+}

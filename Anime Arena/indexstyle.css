@@ -1,0 +1,114 @@
+body{
+    background-color: #f4f7f6;
+    font-family: Arial, ;
+    color: #333333;
+    overflow-x: hidden;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 img{
+     margin-top: 10px;
+    
+padding: 0 20px;
+justify-content: center;
+
+}
+h1{
+
+margin-bottom: 20px;
+    height: 80px;
+    align-items: center;
+    text-align: center;
+
+    justify-content: center;
+
+
+}
+ header nav{
+    justify-content: space-between;
+text-align: center;
+gap: 20px;
+display: flex;
+
+     margin-right: 15px; 
+
+}
+
+.free{
+margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.free button{ 
+    margin-top: 20px;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.notes{
+        justify-content:space-between;
+   padding: 10px 20px ;
+    margin: 10px 0;
+display: flex;
+margin-right: 10px;    
+}
+
+h2{
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.popular{
+    
+    justify-content:space-between;
+   padding: 10px 20px ;
+    margin: 10px 0;
+    gap: 45px;
+display: flex;
+margin-right: 10px;
+
+
+}
+ h2{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.card{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content:space-around;
+    gap: 10px;
+    margin: 10px 0;
+    padding: 10px 20px;
+
+    
+border-radius: 8px;
+    
+}
+.card button{
+    border: none;
+    border-radius: 20px;
+background-color: blue;
+justify-content: flex-start;
+padding: 6px 15px;
+cursor: pointer;
+background: #2a5298;
+
+}
+.notes h3{
+    justify-content: space-around;
+    text-align: center;
+gap: 20px;
+display: flex;
+margin-right: 404px;
+}
